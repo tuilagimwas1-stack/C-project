@@ -1,4 +1,4 @@
-# Hello Harun
+
 
 A concise C console program developed using Code::Blocks that prompts the user to input their username and displays a personalized greeting.
 
